@@ -347,6 +347,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Analytics software.*
 
 * [Analog](http://www.analog.cx/) - The most popular logfile analyser in the world.
+* [AWStats](http://awstats.org/) - AWStats is a free powerful and featureful tool that generates advanced web, streaming, ftp or mail server statistics, graphically.
 * [Piwik](http://piwik.org/) - Free and open source web analytics application.
 * [Webalizer](http://www.webalizer.org/) - Fast, free web server log file analysis program.
 
